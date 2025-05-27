@@ -1,0 +1,27 @@
+{
+  "auth": {
+    "login": {
+      "title": "Login",
+      "username": "Username",
+      "password": "Password",
+      "submit": "Login",
+      "forgotPassword": "Forgot Password?",
+      "register": "Register"
+    },
+    "register": {
+      "title": "Register",
+      "username": "Username",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Register",
+      "loginPrompt": "Already have an account? Login"
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "email": "Email",
+      "submit": "Send Reset Link",
+      "loginPrompt": "Remembered your password? Login"
+    }
+  }
+}
