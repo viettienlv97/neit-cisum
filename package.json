@@ -15,6 +15,7 @@
     "tauri:build-win": "tauri build --target x86_64-pc-windows-msvc"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
     "@element-plus/nuxt": "^1.1.2",
     "@nuxtjs/tailwindcss": "^7.0.0-beta.0",
     "@pinia/nuxt": "^0.11.0",
